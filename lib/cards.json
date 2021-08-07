@@ -1,0 +1,70 @@
+{
+  "cards": [
+    {
+      "name": "The Fren",
+      "stats": {
+        "strength": 7,
+        "speed": 1,
+        "intellect": 6,
+        "endurance": 8,
+        "cunning": 2
+      },
+      "description": "A cold-hardened peacable folk living high in icy mountains. These largely stationary people at first glance appear to be frost-mantled shrubbery. In fact they are garbed in a thick dome of fur, unclear if of animal origin or grown of their own bodies. Only their eyes peering out through the musty mass."
+    },
+    {
+      "name": "Mediaums",
+      "stats": {
+        "strength": 2,
+        "speed": 2,
+        "intellect": 7,
+        "endurance": 4,
+        "cunning": 3
+      },
+      "description": "Not officially recognised by the Wizards guild, mediaums are practitioners of what many consider to be common parlour tricks rather than magic. Reading fortunes and communing with the dead are the most common services being peddled. Their counsel is more frequently sought in less civilized parts of the realm."
+    },
+    {
+      "name": "Oleand Lemayr",
+      "stats": {
+        "strength": 5,
+        "speed": 6,
+        "intellect": 7,
+        "endurance": 5,
+        "cunning": 8
+      },
+      "description": "A mischievous rogue and rapscallion whose legendary exploits precede him. Also goes by 'Oleand Le Rouge' on account of his characteristic red undergarments, as well as 'The Dancing Daffodil' for reasons unknown."
+    },
+    {
+      "name": "An Old Hag",
+      "stats": {
+        "strength": 1,
+        "speed": 2,
+        "intellect": 8,
+        "endurance": 2,
+        "cunning": 7
+      },
+      "description": "Equal parts hideous and heinous, hags delight in suffering, priding themselves on creating new and inventive ways to torment those in their 'care'. Believed to possess old, dark magic with the ability to disguise themselves, they are the bane of all heroic adventurers throughout the land."
+    },
+    {
+      "name": "Nelqu'in",
+      "stats": {
+        "strength": 3,
+        "speed": 6,
+        "intellect": 4,
+        "endurance": 3,
+        "cunning": 7
+      },
+      "description": "A semi-aquatic hairless primate more commonly referred to as “Beach Bandits” on account of the danger they pose to sailors, fishermen and coastal-dwelling folk. Carnivorous pack-hunters and ambush specialists, they utilise rudimentary weapons such as sharpened pikes and blowpipes. This distant cousin to the ancestral forebears of humanity diverged aeons ago, evolving their amphibious specialism. Though they nest on land in tidal coves, they are built for speed and agility in the water. With long, splayed feet, webbed hands and bowl-like eyes adapted to peer through and out from the surf."
+    },
+    {
+      "name": "The Infinibench",
+      "stats": {
+        "strength": 5,
+        "speed": 1,
+        "intellect": 5,
+        "endurance": 10,
+        "cunning": 3
+      },
+      "description": "The subject of many a folk tale. At first glance, the infinibench appears to be a simple piece of outdoor furniture. Those that sit on it however, are subject to severe time dilation, thinking years have passed after sitting down for only a few minutes. Many a man has been driven mad by the process. Rumours suggest the bench can currently be found in a local park in Molesleigh"
+    }
+  ]
+}
