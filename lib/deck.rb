@@ -1,12 +1,15 @@
-require 'json'
-require_relative'card'
+# frozen_string_literal: true
 
+require 'json'
+require_relative 'card'
+
+# Deck represents a collection of cards to be used in the game
 class Deck
   attr_reader :cards
 
   def self.build(card_path = 'lib/cards.json')
-    file = File.open(card_path)
-    data = JSON.load(file)
+    file = File.read(card_path)
+    data = JSON.parse(file)
     cards = data['cards'].map { |card_data| Card.build(card_data) }
     new(cards)
   end
